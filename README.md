@@ -1,7 +1,7 @@
 # MarioGame
 Criação da primeira faze do game Mário bros fase 1
 
- <img width=100% src="https://github.com/Lucasbarbosa332/MarioGame/blob/main/Mario%20Levl%201/Mario-Level-1-master/screenshot.png?raw=true"></img>  
+ <img width=50% src="https://github.com/Lucasbarbosa332/MarioGame/blob/main/Mario%20Levl%201/Mario-Level-1-master/screenshot.png?raw=true"></img>  
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # CONTROLES:
