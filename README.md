@@ -22,4 +22,4 @@ Criação da primeira faze do game Mário bros fase 1
 
 # Contexto 
 
-Este projeto foi usado para aprender a criar elementos e objetos em py aprendeno a manipular funções e logicas aprendeno a usar py game para interfaces interativas o codigo fonte desse game foi adiquirido no grupo Brasil code.
+Este projeto foi desenvolvido com o objetivo de aprender a criar elementos e objetos em Python, aplicando a manipulação de funções e lógica de programação. Além disso, foi utilizado o Pygame para criar interfaces interativas. O código-fonte deste jogo foi obtido através do grupo Brasil Code.
